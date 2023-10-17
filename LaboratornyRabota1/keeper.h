@@ -6,7 +6,6 @@
 class Keeper {	
 	Conference** data;
 	int size;
-
 public:
 	Keeper();
 	~Keeper();
