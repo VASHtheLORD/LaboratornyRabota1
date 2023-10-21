@@ -1,5 +1,7 @@
 #include "Keeper.h"
 
+//comments for a sake of comments
+
 int main()
 {
 	Keeper Konten;
